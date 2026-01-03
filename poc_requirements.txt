@@ -1,0 +1,12 @@
+strands-agents
+bedrock-agentcore
+strands-agents-tools
+boto3
+pandas
+sqlite3
+requests
+flask
+asyncio
+websockets
+psutil
+watchdog

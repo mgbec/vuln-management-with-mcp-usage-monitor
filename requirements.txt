@@ -1,0 +1,10 @@
+strands-agents
+bedrock-agentcore
+strands-agents-tools
+boto3
+pandas
+numpy
+matplotlib
+seaborn
+requests
+python-dateutil
